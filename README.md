@@ -1,6 +1,6 @@
 ## Hi👋, this is Aishwarya 👩🏻‍💻
 
-I am a fullstack developer from India 🇮🇳 I am working as a Associate Software Developer
+I am a fullstack developer from India 🇮🇳 I am working as a Software Developer
 
 ### Currently I am working with ...
 
